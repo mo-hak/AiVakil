@@ -108,17 +108,3 @@ aivakil/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with [Next.js](https://nextjs.org/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-- AI model hosted on [Kaggle](https://www.kaggle.com/)
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
-
----
-
-Made with ❤️ by [Your Name]
